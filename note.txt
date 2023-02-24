@@ -1,0 +1,4 @@
+comment décompréssé un fichier
+tar -xvf LotsOfFiles.tgz
+vfdfez
+vedf
